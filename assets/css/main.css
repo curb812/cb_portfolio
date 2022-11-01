@@ -3515,15 +3515,6 @@ input, select, textarea {
 	.logo {
 		block-size: auto;
 	}
-			@media screen and (max-width: 1280px) {
-
-				.logo {x
-					display: none;
-				}
-			}
-
-			
-
 
 
 /* Footer */
@@ -3606,7 +3597,7 @@ input, select, textarea {
 
 		#sidebar nav > ul {
 			list-style: none;
-			padding: 0;
+			padding: 5px;
 		}
 
 			#sidebar nav > ul > li {
