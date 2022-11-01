@@ -3513,8 +3513,8 @@ input, select, textarea {
 	}
 
 	.logo {
-		height: 65px;
-		width: 65px;
+		height: 50%;
+		width: 50%;
 	}
 			@media screen and (max-width: 1280px) {
 
