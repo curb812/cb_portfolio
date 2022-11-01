@@ -3597,7 +3597,7 @@ input, select, textarea {
 
 		#sidebar nav > ul {
 			list-style: none;
-			padding: 5px;
+			padding: 0px;
 		}
 
 			#sidebar nav > ul > li {
