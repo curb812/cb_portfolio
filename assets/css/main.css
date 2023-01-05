@@ -3890,13 +3890,13 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 736px) {
+		/* @media screen and (max-width: 736px) {
 
 			#sidebar {
 				display: none;
 			}
 
-		}
+		} */
 
 /* Intro */
 
@@ -4018,4 +4018,10 @@ input, select, textarea {
 @keyframes fade {
   from {opacity: .4}
   to {opacity: 1}
+}
+
+.nav-logo {
+	@media (max-width: 800px) {
+		display: none;
+	}
 }
